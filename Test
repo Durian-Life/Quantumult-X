@@ -1,119 +1,119 @@
-trojan=211.99.114.119:15002, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=false, tag=🇭🇰 Hong Kong 01
+trojan=211.99.114.119:15002, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇭🇰 Hong Kong 01
 
-trojan=211.99.114.119:15005, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=false, tag=🇭🇰 Hong Kong 02
+trojan=211.99.114.119:15005, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇭🇰 Hong Kong 02
 
-trojan=211.99.114.119:15008, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=false, tag=🇭🇰 Hong Kong 03
+trojan=211.99.114.119:15008, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇭🇰 Hong Kong 03
 
-trojan=211.99.114.119:15012, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=false, tag=🇭🇰 Hong Kong 04
+trojan=211.99.114.119:15012, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇭🇰 Hong Kong 04
 
-trojan=211.99.114.119:15015, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=false, tag=🇭🇰 Hong Kong 05
+trojan=211.99.114.119:15015, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇭🇰 Hong Kong 05
 
-trojan=211.99.114.119:15018, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=false, tag=🇭🇰 Hong Kong 06
+trojan=211.99.114.119:15018, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇭🇰 Hong Kong 06
 
-trojan=211.99.114.119:15022, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=false, tag=🇭🇰 Hong Kong 07
+trojan=211.99.114.119:15022, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇭🇰 Hong Kong 07
 
-trojan=211.99.114.119:15025, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=false, tag=🇭🇰 Hong Kong 08
+trojan=211.99.114.119:15025, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇭🇰 Hong Kong 08
 
-trojan=211.99.114.119:15028, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=false, tag=🇭🇰 Hong Kong 09
+trojan=211.99.114.119:15028, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇭🇰 Hong Kong 09
 
-trojan=211.99.114.119:15032, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=false, tag=🇭🇰 Hong Kong 10
+trojan=211.99.114.119:15032, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇭🇰 Hong Kong 10
 
-trojan=211.99.114.119:15035, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=false, tag=🇭🇰 Hong Kong 11
+trojan=211.99.114.119:15035, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇭🇰 Hong Kong 11
 
-trojan=211.99.114.119:15038, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=false, tag=🇭🇰 Hong Kong 12
+trojan=211.99.114.119:15038, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇭🇰 Hong Kong 12
 
-trojan=211.99.114.119:15042, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=false, tag=🇭🇰 Hong Kong 13
+trojan=211.99.114.119:15042, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇭🇰 Hong Kong 13
 
-trojan=211.99.114.119:15045, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=false, tag=🇭🇰 Hong Kong 14
+trojan=211.99.114.119:15045, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇭🇰 Hong Kong 14
 
-trojan=211.99.114.119:15048, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=false, tag=🇭🇰 Hong Kong 15
+trojan=211.99.114.119:15048, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇭🇰 Hong Kong 15
 
-trojan=211.99.114.119:15052, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=false, tag=🇭🇰 Hong Kong 16
+trojan=211.99.114.119:15052, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇭🇰 Hong Kong 16
 
-trojan=211.99.114.119:18002, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=false, tag=🇸🇬 Singapore 01
+trojan=211.99.114.119:18002, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇸🇬 Singapore 01
 
-trojan=211.99.114.119:18005, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=false, tag=🇸🇬 Singapore 02
+trojan=211.99.114.119:18005, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇸🇬 Singapore 02
 
-trojan=211.99.114.119:18008, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=false, tag=🇸🇬 Singapore 03
+trojan=211.99.114.119:18008, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇸🇬 Singapore 03
 
-trojan=211.99.114.119:18012, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=false, tag=🇸🇬 Singapore 04
+trojan=211.99.114.119:18012, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇸🇬 Singapore 04
 
-trojan=211.99.114.119:18015, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=false, tag=🇸🇬 Singapore 05
+trojan=211.99.114.119:18015, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇸🇬 Singapore 05
 
-trojan=211.99.114.119:18018, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=false, tag=🇸🇬 Singapore 06
+trojan=211.99.114.119:18018, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇸🇬 Singapore 06
 
-trojan=211.99.114.119:18022, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=false, tag=🇸🇬 Singapore 07
+trojan=211.99.114.119:18022, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇸🇬 Singapore 07
 
-trojan=211.99.114.119:18025, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=false, tag=🇸🇬 Singapore 08
+trojan=211.99.114.119:18025, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇸🇬 Singapore 08
 
-trojan=211.99.114.119:18028, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=false, tag=🇸🇬 Singapore 09
+trojan=211.99.114.119:18028, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇸🇬 Singapore 09
 
-trojan=211.99.114.119:18032, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=false, tag=🇸🇬 Singapore 10
+trojan=211.99.114.119:18032, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇸🇬 Singapore 10
 
-trojan=211.99.114.119:18035, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=false, tag=🇸🇬 Singapore 11
+trojan=211.99.114.119:18035, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇸🇬 Singapore 11
 
-trojan=211.99.114.119:18038, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=false, tag=🇸🇬 Singapore 12
+trojan=211.99.114.119:18038, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇸🇬 Singapore 12
 
-trojan=211.99.114.119:18042, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=false, tag=🇸🇬 Singapore 13
+trojan=211.99.114.119:18042, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇸🇬 Singapore 13
 
-trojan=211.99.114.119:18045, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=false, tag=🇸🇬 Singapore 14
+trojan=211.99.114.119:18045, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇸🇬 Singapore 14
 
-trojan=211.99.114.119:17002, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=false, tag=🇯🇵 Japan 01
+trojan=211.99.114.119:17002, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇯🇵 Japan 01
 
-trojan=211.99.114.119:17005, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=false, tag=🇯🇵 Japan 02
+trojan=211.99.114.119:17005, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇯🇵 Japan 02
 
-trojan=211.99.114.119:17008, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=false, tag=🇯🇵 Japan 03
+trojan=211.99.114.119:17008, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇯🇵 Japan 03
 
-trojan=211.99.114.119:17012, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=false, tag=🇯🇵 Japan 04
+trojan=211.99.114.119:17012, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇯🇵 Japan 04
 
-trojan=211.99.114.119:17015, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=false, tag=🇯🇵 Japan 05
+trojan=211.99.114.119:17015, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇯🇵 Japan 05
 
-trojan=211.99.114.119:17018, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=false, tag=🇯🇵 Japan 06
+trojan=211.99.114.119:17018, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇯🇵 Japan 06
 
-trojan=211.99.114.119:17022, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=false, tag=🇯🇵 Japan 07
+trojan=211.99.114.119:17022, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇯🇵 Japan 07
 
-trojan=211.99.114.119:17025, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=false, tag=🇯🇵 Japan 08
+trojan=211.99.114.119:17025, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇯🇵 Japan 08
 
-trojan=211.99.114.119:17028, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=false, tag=🇯🇵 Japan 09
+trojan=211.99.114.119:17028, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇯🇵 Japan 09
 
-trojan=211.99.114.119:17032, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=false, tag=🇯🇵 Japan 10
+trojan=211.99.114.119:17032, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇯🇵 Japan 10
 
-trojan=211.99.114.119:17035, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=false, tag=🇯🇵 Japan 11
+trojan=211.99.114.119:17035, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇯🇵 Japan 11
 
-trojan=211.99.114.119:17038, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=false, tag=🇯🇵 Japan 12
+trojan=211.99.114.119:17038, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇯🇵 Japan 12
 
-trojan=211.99.114.119:17042, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=false, tag=🇯🇵 Japan 13
+trojan=211.99.114.119:17042, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇯🇵 Japan 13
 
-trojan=211.99.114.119:17045, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=false, tag=🇯🇵 Japan 14
+trojan=211.99.114.119:17045, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇯🇵 Japan 14
 
-trojan=211.99.114.119:17046, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=false, tag=🇯🇵 Japan 15
+trojan=211.99.114.119:17046, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇯🇵 Japan 15
 
-trojan=211.99.114.119:16002, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=false, tag=🇺🇸 United States 01
+trojan=211.99.114.119:16002, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇺🇸 United States 01
 
-trojan=211.99.114.119:16005, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=false, tag=🇺🇸 United States 02
+trojan=211.99.114.119:16005, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇺🇸 United States 02
 
-trojan=211.99.114.119:16008, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=false, tag=🇺🇸 United States 03
+trojan=211.99.114.119:16008, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇺🇸 United States 03
 
-trojan=211.99.114.119:16012, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=false, tag=🇺🇸 United States 04
+trojan=211.99.114.119:16012, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇺🇸 United States 04
 
-trojan=211.99.114.119:16015, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=false, tag=🇺🇸 United States 05
+trojan=211.99.114.119:16015, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇺🇸 United States 05
 
-trojan=211.99.114.119:16018, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=false, tag=🇺🇸 United States 06
+trojan=211.99.114.119:16018, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇺🇸 United States 06
 
-trojan=211.99.114.119:16022, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=false, tag=🇺🇸 United States 07
+trojan=211.99.114.119:16022, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇺🇸 United States 07
 
-trojan=211.99.114.119:16025, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=false, tag=🇺🇸 United States 08
+trojan=211.99.114.119:16025, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇺🇸 United States 08
 
-trojan=211.99.114.119:16028, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=false, tag=🇺🇸 United States 09
+trojan=211.99.114.119:16028, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇺🇸 United States 09
 
-trojan=211.99.114.119:16032, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=false, tag=🇺🇸 United States 10
+trojan=211.99.114.119:16032, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇺🇸 United States 10
 
-trojan=211.99.114.119:16035, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=false, tag=🇺🇸 United States 11
+trojan=211.99.114.119:16035, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇺🇸 United States 11
 
-trojan=211.99.114.119:16038, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=false, tag=🇺🇸 United States 12
+trojan=211.99.114.119:16038, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇺🇸 United States 12
 
-trojan=211.99.114.119:16042, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=false, tag=🇺🇸 United States 13
+trojan=211.99.114.119:16042, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇺🇸 United States 13
 
-trojan=211.99.114.119:16045, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=false, tag=🇺🇸 United States 14
+trojan=211.99.114.119:16045, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇺🇸 United States 14
 
-trojan=211.99.114.119:16046, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=false, tag=🇺🇸 United States 15
+trojan=211.99.114.119:16046, password=q09QhyJSZq4GD30S8az1H, over-tls=true, tls-verification=false, fast-open=true, udp-relay=true, tag=🇺🇸 United States 15
