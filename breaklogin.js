@@ -12,7 +12,7 @@
 ^https:\/\/comb-platform\.hortorgames\.com\/comb-login-server\/api\/v1\/login\/check\? url script-response-body https://raw.githubusercontent.com/Durian-Life/Quantumult-X/refs/heads/master/breaklogin.js
 
 [mitm]
-comb-platform.hortorgames.com
+hostname=comb-platform.hortorgames.com
 /************************************
 
 var body = $response.body;
