@@ -1,9 +1,2 @@
-var body = $response.body;
-var obj = JSON.parse(body);
-
-obj['data'] = true;
-body = JSON.stringify(obj);
-
-console.log(body);
-
-$done(body);
+var body=$response.body.replace(/data":\w+/g,'data":true');
+$done({body});
